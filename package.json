@@ -1,0 +1,23 @@
+{
+  "name": "port-metanit-nodejs-to-typescript",
+  "version": "1.0.0",
+  "description": "> tsc -p tsconfigs/server/tsconfig.server.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8Observer8/port-metanit-nodejs-to-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8Observer8/port-metanit-nodejs-to-typescript/issues"
+  },
+  "homepage": "https://github.com/8Observer8/port-metanit-nodejs-to-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.6"
+  }
+}
